@@ -38,3 +38,6 @@ Como o Projeto Funciona
   6-O arquivo é aberto e a senha é salva.
 
 
+Próximos commits:
+  -Adicionar o setlocale para imprimir corretamente os caracteres em portugês
+  -Adicionar uma opção para ler um arquivo existente
