@@ -31,8 +31,3 @@ O projeto segue um fluxo simples e validado a cada passo:
 * [ ] Adicionar uma opção para ler um arquivo existente. (Já feito e atualizado)
 * [ ] Adicionar uma opção para renomear um arquivo. (Já feito e atualizado)
 * [ ] Refatorar o código para melhorar a organização e legibilidade.
-
-Adição do segundo commit:
-  -Adicionar o setlocale para imprimir corretamente os caracteres em portugês - Feito
-  -Adicionar uma opção para ler um arquivo existente - Feito
-  -Adicionar uma opção para 
