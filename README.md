@@ -30,4 +30,8 @@ O projeto segue um fluxo simples e validado a cada passo:
 ## Próximos passos
 * [ ] Adicionar uma opção para ler um arquivo existente. (Já feito e atualizado)
 * [ ] Adicionar uma opção para renomear um arquivo. (Já feito e atualizado)
-* [ ] Refatorar o código para melhorar a organização e legibilidade.
+* [ ] Refatorar o código para melhorar a organização e legibilidade. (Já feito e atualizado
+
+## Alterações do terceiro Commit
+* Modularização dos menus
+* Divisão das funções em headers e arquivos .c, para melhorar a legibilidade do código
